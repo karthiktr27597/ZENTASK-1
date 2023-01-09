@@ -18,6 +18,6 @@ HTTP2
 1. It works on the binary protocal
 2. It allows multiplexing so one TCP connection is required for multiple requests.
 3. It uses PUSH frame by server that collets all multiple pages
-4  It uses HPACK for data compression.
+4. It uses HPACK for data compression.
 5. HTTP2 does not change much in terms of caching. With the server push feature if the client finds the resources are already present in the cache, it can cancel the pushed stream.
 6. It is loading fast campare to HTTP1.1
