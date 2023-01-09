@@ -1,0 +1,16 @@
+Write a blog about objects and its internal representation in Javascript
+------------------------------------------------------------------------------
+Answer:
+
+Javascript objects is a collection of named values haveing key and value (or) properties and methods.
+These keys can be variables or functions and are called properties and methods.
+
+Syntax:
+object name = {key1:"value1",key2:"value1",key3:"value3"........keyN:"valueN"}
+
+For example: 
+if Object will be car, pen, bike, home....
+
+bike={Make:"Honda", Model:"100cc", colour:"Blue"}
+
+Javascript object are container for named values.
